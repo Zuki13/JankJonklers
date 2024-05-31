@@ -12,5 +12,4 @@ Requires [Steamodded](https://github.com/Steamopollys/Steamodded)!
 
 ## Notes
 
--Les challenges ne sont pas encore traduit.
 -Le type de couleur dans la description du joker "Midnight Crew" n'est pas traduit
